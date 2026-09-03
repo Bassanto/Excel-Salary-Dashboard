@@ -1,6 +1,8 @@
 # Excel Salary Dashboard
 
 ![1_Salary_Dashboard.png](/0_Resources/Images/1_Salary_Dashboard_Final_Dashboard.gif)
+<img width="1096" height="504" alt="Excel_dashboard" src="https://github.com/user-attachments/assets/c6c56a56-54d5-441b-b210-2617d162bfb5" />
+
 
 ## Introduction
 
@@ -34,7 +36,9 @@ The dataset used for this project contains real-world data science job informati
 
 #### 📊 Data Science Job Salaries - Bar Chart
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Chart1.png" width="850" height="550" alt="Salary Dashboard Chart1">
+
+
+<img width="437" height="242" alt="Screenshot 2026-09-02 233637" src="https://github.com/user-attachments/assets/4d1033ff-a344-4d0f-8179-bea05d7d1b20" />
 
 - 🛠️ **Excel Features:** Used the bar chart feature, with formatted salary values and a layout optimized for clarity.
 - 🎨 **Design Choice:** A horizontal bar chart for easy visual comparison of median salaries.
@@ -43,7 +47,13 @@ The dataset used for this project contains real-world data science job informati
 
 #### 🗺️ Country Median Salaries - Map Chart
 
-![1_Salary_Dashboard_Chart2.png](/0_Resources/Images/1_Salary_Dashboard_Country_Map.gif)
+<img width="353" height="251" alt="Screenshot 2026-09-02 234213" src="https://github.com/user-attachments/assets/e2e38039-4915-4c56-8a06-050f6f9fb148" />
+
+
+
+
+
+
 
 - 🛠️ **Excel Features:** Used Excel's map chart feature to plot median salaries globally.
 - 🎨 **Design Choice:** A color-coded map to visually distinguish salary levels across regions.
@@ -74,11 +84,14 @@ jobs[salary_year_avg]
 
 🍽️ Background Table
 
-![1_Salary_Dashboard_Screenshot1.png](/0_Resources/Images/1_Salary_Dashboard_Screenshot1.png)
+<img width="275" height="219" alt="Screenshot 2026-09-03 154033" src="https://github.com/user-attachments/assets/ca318e1e-dfd0-405d-b01c-876231266cdc" />
+
 
 📉 Dashboard Implementation
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Job_Title.png" width="400" height="500" alt="Salary Dashboard Title">
+https://github.com/user-attachments/assets/79a37d3f-220e-46b5-a4b3-4aabe48c3cf3
+
+
 
 #### ⏰ Count of Job Schedule Type
 ~~~
@@ -89,11 +102,8 @@ jobs[salary_year_avg]
 
 🍽️ Background Table
 
-![1_Salary_Dashboard_Type.png](/0_Resources/Images/1_Salary_Dashboard_Screenshot2.png)
+<img width="233" height="120" alt="Type_schedule_table" src="https://github.com/user-attachments/assets/5127ab3d-2dc1-49c5-ac1a-7a4f6af4fc72" />
 
-📉 Dashboard Implementation:
-
-<img src="/0_Resources/Images/1_Salary_Dashboard_Type.png" width="350" height="500" alt="Salary Dashboard Type">
 
 ### ❎ Data Validation
 
@@ -104,7 +114,6 @@ jobs[salary_year_avg]
     - 🚫 Incorrect or inconsistent entries are prevented
     - 👥 The dashboard's overall usability is improved
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Data_Validation.gif" width="425" height="400" alt="Salary Dashboard Data Validation">
 
 ## Conclusion
 
